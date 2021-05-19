@@ -2,7 +2,7 @@ package com.yavel;
 
 public class Main
 {
-  public static int Rows = 10;
+  public static int Rows = 5;
   public static int Cols = 10;
   int [][] b;
   public static void initializeBoard(Main b)
